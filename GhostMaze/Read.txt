@@ -1,0 +1,18 @@
+Welcome to my Maze Game!
+After starting the game, you'll immediently be inside, so don't wait, start moving! 
+-
+There are ghosts that have been following you through the mazes, trying to find you. Don't let them catch you.
+If one catches you it's game over. And you lose. If your finding trouble getting through the maze without 
+getting caught by a ghost, best bet is to be patient or you can try to make a play and
+make some crazy manuevers. 
+-
+In order to get into the exit, you must first find the key to unlock the gates. No key, no escape!
+There is a total of three levels, so a total of three keys! After the third gate you've escaped the maze 
+and safe from getting haunted.
+-
+Controls:
+w-a-s-d controls to move up, down, left, and right. 
+You can keep an eye on the terminal if you want to see game statements inbetween the true and false statements if you want. Not required! but it's gonna be how you know the game is over completely.
+-
+Good Luck!
+
